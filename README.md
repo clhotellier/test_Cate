@@ -25,13 +25,8 @@ Texte de test texte de test texte de test texte de test texte de test texte de t
 
 ---------------------------------------
 
-1 Jour | mois 2| 3 année 
-- | :-: | -:
-12 | **avrl** | **2000**
-21 | juilllet | *2016*
-
-
-
 
 
 # Mon second projet
+
+
