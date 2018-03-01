@@ -1,0 +1,32 @@
+###Nouveau###
+
+** les commandes à connaître **
+
+
+###branch###
+git branch              # Permet de lister les branches
+git branch <branche>    # Permet de créer une nouvelle branche <branche>
+git branch -m <branche> # Renomme la branche courante en <branche>
+git branch -d <branche> # Permet de supprimer une branche
+
+git branch -D <branche>  # Supprime la branche même si elle n'a pas été fusionnée
+
+Une fois les branches créées il faut être capable d'aller d'une branche à une autre. Pour cela, on peut compter sur la commande checkout vu précédemment.
+
+git checkout <branche>
+
+Permet de se rendre sur une branche existante. En revanche, si vous le souhaitez vous pouvez demander à git de sauter sur une branche qui n'existe pas en la créant au préalable.
+
+git checkout -b <branche> 
+# équivalent à 
+git branch <branche>
+git checkout <branche>
+
+###merge###
+
+Merge permet de ramener une branche sur une autre et ainsi de la fusionner. La fusion de 2 branche se fait toujours à partir de la branche principale.
+
+    La branche "source" sera affectée en récupérant l'historique de la branche ou un commit de fusion
+    La branche fusionnée ne sera pas affectée
+
+git merge <branche>
