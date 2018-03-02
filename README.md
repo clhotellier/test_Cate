@@ -32,3 +32,21 @@ test sb
 # Mon second projet
 
 
+![bxc](bxc.jpg)
+
+1. **Premier  élément**
+2. *Deuxième élément*
+
+         a. Sous-liste ordonnée
+
+         b. Point deux
+
+3. Un petit tableau
+
+| Jour |   Mois |   Année |
+|-------|:-----:|------:|
+| 02 | mars | 2018 |
+|29   |  juillet | 2050|
+
+
+
