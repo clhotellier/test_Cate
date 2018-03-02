@@ -15,6 +15,8 @@ Texte de test texte de test texte de test texte de test texte de test texte de t
 2. Nombre
 3. Unité
 
+test sb
+
 
 ![neige](neige.jpg)
 
@@ -25,13 +27,26 @@ Texte de test texte de test texte de test texte de test texte de test texte de t
 
 ---------------------------------------
 
-1 Jour | mois 2| 3 année 
-- | :-: | -:
-12 | **avrl** | **2000**
-21 | juilllet | *2016*
-
-
-
 
 
 # Mon second projet
+
+
+![bxc](bxc.jpg)
+
+1. **Premier  élément**
+2. *Deuxième élément*
+
+         a. Sous-liste ordonnée
+
+         b. Point deux
+
+3. Un petit tableau
+
+| Jour |   Mois |   Année |
+|-------|:-----:|------:|
+| 02 | mars | 2018 |
+|29   |  juillet | 2050|
+
+
+
